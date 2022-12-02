@@ -2,8 +2,8 @@
 Esta es una API Restful que realiza consolida búsquedas en las siguientes apis de canciones: https://itunes.apple.com, http://api.chartlyrics.com
 ## Instalación
 ```
-git clone 
-cd 
+git clone https://github.com/kvothestrokes/proyecto-triabl-andre.git tribal
+cd tribal
 docker compose up -d
 ```
 ## Uso
